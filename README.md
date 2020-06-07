@@ -1,12 +1,13 @@
 # Price-Predictions-Using-Different-Regressions
-*A PYTHON PROJECT ON REGRESSION ANALYSIS*
-WEEK 7 PROJECT, JUNE 2020
-{By Faithelizabeth Mburuga}
+# A PYTHON PROJECT ON REGRESSION ANALYSIS*
+WEEK 7 PROJECT, JUNE 2020\
+{By Faithelizabeth Mburuga}\
 
-Description
+*Description*
 Predict prices of real estate given different variables
 
-Experimental Design
+*Experimental Design*
+
 Data cleaning
 Univariate analysis
 Bivariate analysis
