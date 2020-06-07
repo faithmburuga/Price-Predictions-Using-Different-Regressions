@@ -1,6 +1,6 @@
 # Price-Predictions-Using-Different-Regressions
-# A PYTHON PROJECT ON REGRESSION ANALYSIS*
-#WEEK 7 PROJECT, JUNE 2020\
+# A PYTHON PROJECT ON REGRESSION ANALYSIS
+**WEEK 7 PROJECT, JUNE 2020**\
 {By Faithelizabeth Mburuga}
 
 **Description**\
